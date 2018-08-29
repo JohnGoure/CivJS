@@ -9,6 +9,13 @@ It implements similar but simpler rules, and thanks to the web technologies is a
 * [Changelog](https://github.com/Venerons/CivJS/wiki/Changelog)
 * [Roadmap](https://github.com/Venerons/CivJS/wiki/Roadmap)
 
+## How to play
+You need npm @5.2.0 or greater. You can download it [here](https://nodejs.org/en/)
+1. Clone or download a copy of the CivJS repository.
+2. Open your terminal and cd to the CivJS directory.
+3. Type npx serve, npm will start a static server and copy the the servers ip address to your clipboard.
+4. Lastly, open a browser and paste the ip address into the address bar.
+
 ## Licensing
 CivJS
 _Copyright (c) 2013-2015 Daniele Veneroni._  
